@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💫 About Me:
+Full-Stack Developer | Python | Django | Next.js | SaaS| TypeScript <br> <br><br><br>🚀 Full Stack Developer | Django | React | Next.js | PostgreSQL | LangChain | RAG | MySQL | Tailwind CSS | Ant Design | SaaS AI | E-learning | ERP | E-commerce 🚀<br><br>I’m a Full Stack Software Engineer with 4+ years of experience, specializing in scalable, AI-driven, high-performance applications. I build ERP, E-learning & E-tutor, E-commerce, Restaurant SaaS, and AI-powered platforms.<br><br>🛠️ Technical Expertise<br>💻 Languages: Python | JavaScript | TypeScript<br>🌐 Front End: Next.js | Tailwind CSS | Ant Design<br>💻 Back End: Django<br>📦 Databases: PostgreSQL | MySQL<br>🤖 Gen AI & LLMs: | LangChain | RAG |<br>🚀 Cloud & DevOps: AWS | GitHub | CI/CD | Jira | cPanel<br><br>🌟 Notable Projects<br>🚀 E-learning & E-Tutor Platform – A feature-rich LMS with video courses, quizzes, assignments, a. Built with Django, Next.js, PostgreSQL .<br><br>🚀 ERP System – A comprehensive ERP for businesses to manage HR, payroll, and leave management. Developed using Django, Next.js, PostgreSQL, and Tailwind CSS, ensuring scalability and efficiency.<br><br>🚀 E-commerce SaaS Platform – A multi-vendor online store with inventory management and order tracking.. Built using Django, Vue.js, Tailwind CSS, and MySQL.<br><br>🚀 Restaurant SaaS Platform – A cloud-based restaurant management system , multi-tenant support, and menu optimization. Developed using Django, Vue.js, Tailwind CSS, and MySQL.<br><br>🎯 Why Work With Me?.<br>✅ Front-End Expert – React.js, Next.js for dynamic, interactive user experiences.<br>✅ Back-End & SaaS – Django & Spring Boot for secure, scalable multi-tenant applications.<br>✅ Database Optimization – Skilled in PostgreSQL, MySQL and performance tuning.<br>✅ Frontier AI Model Integration – Experience with OpenAI GPT and other frontier models.<br>✅ Agile Development – Experienced in Scrum for fast, efficient project execution.<br><br>🚀 Let’s Build Scalable, AI-Powered Digital Solutions Together!<br><br>Whether it’s AI assistants, E-learning, ERP, E-commerce, SaaS, I’m ready to bring your ideas to life with Django, Next.js, PostgreSQL, and AWS.<br><br>📩 Let’s connect and build the future with AI + SaaS 🚀✨<br>lessFull-Stack Development<br>Python<br>Django<br>JavaScript<br>React<br>Next.js<br>Vue.js<br>Tailwind CSS<br>Amazon EC2<br>OpenAI API<br>SaaS Development<br>Amazon S3<br>Amazon RDS<br>LangChain<br>Retrieval Augmented Generation
 
-<!--
-**behaylugule/behaylugule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/behaylugule) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/behaylu-gule-72b17b211) [![Medium](https://img.shields.io/badge/Medium-12
+0E?logo=medium&logoColor=white)](https://medium.com/@behaylugule) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/behaylugule) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:behaylugule@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=behaylugule&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=behaylugule&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=behaylugule&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=behaylugule&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
