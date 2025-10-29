@@ -1,6 +1,7 @@
 # 💫 About Me:
 <br>Hi, I'm Behaylu Gule <br>
 
+
 💻<b> Full-Stack Developer | DevOps Enthusiast</b><br><br>I’m a Full Stack & DevOps Engineer with 4+ years of experience, specializing in building scalable, AI-driven, high-performance applications. I excel at architecting robust backend systems with Django, FastAPI, and Node.js, crafting dynamic user interfaces with Next.js and React, and deploying cloud-native solutions on AWS (EC2, Lambda, Amplify). My expertise spans the entire software development lifecycle—from initial design to deployment and long-term maintenance.<br><br>
 
 # 💻 Tech Stack:
