@@ -2,6 +2,8 @@
 <br>Hi, I'm Behaylu Gule <br>
 
 
+
+
 💻<b> Full-Stack Developer | DevOps Enthusiast</b><br><br>I’m a Full Stack & DevOps Engineer with 4+ years of experience, specializing in building scalable, AI-driven, high-performance applications. I excel at architecting robust backend systems with Django, FastAPI, and Node.js, crafting dynamic user interfaces with Next.js and React, and deploying cloud-native solutions on AWS (EC2, Lambda, Amplify). My expertise spans the entire software development lifecycle—from initial design to deployment and long-term maintenance.<br><br>
 
 # 💻 Tech Stack:
@@ -16,6 +18,7 @@ Notable Projects<br>🚀 E-learning & E-Tutor Platform – A feature-rich LMS wi
 
  <br>✅ Front-End Expert – React.js, Next.js for dynamic, interactive user experiences.<br>✅ Back-End & SaaS – Django & Spring Boot for secure, scalable multi-tenant applications.<br>✅ Database Optimization – Skilled in PostgreSQL, MySQL and performance tuning.<br>✅ Frontier AI Model Integration – Experience with OpenAI GPT and other frontier models.<br>✅ Agile Development – Experienced in Scrum for fast, efficient project execution.<br><br>🚀 Let’s Build Scalable, AI-Powered Digital Solutions Together!<br><br>Whether it’s AI assistants, E-learning, ERP, E-commerce, SaaS, I’m ready to bring your ideas to life with Django, Next.js, PostgreSQL, and AWS.<br><br>📩 Let’s connect and build the future with AI + SaaS 🚀✨
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 # 📊 GitHub Stats:
